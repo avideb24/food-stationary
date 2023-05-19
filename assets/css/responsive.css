@@ -1,0 +1,290 @@
+@media (max-width:1199px){
+
+
+
+}
+
+@media (max-width:991px){
+    .main-btn a {
+        font-size: 14px;
+        padding: 12px 33px;
+    }
+    .main-btn i {
+        font-size: 15px;
+        padding: 14px 20px;
+    }
+    /* header */
+    .logo{
+        max-width: 58px;
+    }
+    .header-icon {
+        margin-left: 10px;
+    }
+    .header-btn a{
+        font-size: 15px;
+    }
+    .header-icon a i{
+        margin-left: 8px;
+    }
+    .menu ul li a{
+        font-size: 18px;
+    }
+    /*banner*/
+    .banner-area{
+        padding: 100px 0 120px 0;
+    }
+    .banner-content h1{
+        font-size: 57px;
+    }
+    .banner-content h2{
+        font-size: 36px;
+        max-width: 290px;
+    }
+    .about-content h3 {
+        font-size: 30px;
+    }
+    .about-content p {
+        font-size: 16px;
+    }
+    /*sevice*/
+    .service-item-title{
+        max-width: 350px;
+    }
+    .service-content p {
+        font-size: 17px;
+        max-width: 350px;
+        text-align: justify;
+    }
+    /*discount*/
+    .discount-content h2{
+        font-size: 26px;
+        margin: 7px 0 5px 0;
+    }
+    .discount-content h3 {
+        font-size: 18px;
+    }
+    .discount-content h4{
+        font-size: 22px;
+    }
+    .discount-content p {
+        font-size: 15px;
+        max-width: 298px;
+        margin: 10px 0 15px 0;
+    }
+    
+}
+
+@media (max-width:767px){
+    .section-title {
+        text-align: center;
+        margin: 50px 0 40px 0;
+    }
+    .section-title h2 {
+        margin-bottom: 13px;
+    }
+    .right-col{
+        display: block;
+    }
+    /*header*/
+    .menu ul{
+        padding: 17px 0;
+    }
+    .menu ul li a {
+        font-size: 14px;
+    }
+    /*banner*/
+    .banner-area {
+        padding: 60px 0 80px 0;
+    }
+    .banner-content h1 {
+        font-size: 36px;
+    }
+    .banner-content h2 {
+        font-size: 25px;
+        max-width: 198px;
+    }
+    .banner-content p {
+        max-width: 265px;
+        margin-top: 16px;
+    }
+    .banner-btn {
+        margin-top: 35px;
+    }
+    /*about*/
+    .about-image{
+        margin: 30px auto 0 auto;
+    }
+    .about-bottom-image{
+        display: flex;
+        order: -1;
+    }
+    /*service*/
+    .service-content p{
+        font-size: 15px;
+        line-height: 17px;
+        margin: 10px 0 15px 0;
+    }
+    /*discount*/
+    .discount-area{
+        padding: 35px 0;
+    }
+    .discount-content p{
+        max-width: 295px;
+    }
+    /*footer*/
+    .footer-content h2{
+        font-size: 30px;
+    }
+    .footer-content p {
+        font-size: 18px;
+    }
+    .footer-bottom-text {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .social-icons a{
+        width: 25px;
+        height: 25px;
+    }
+    .social-icons a i {
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    
+}
+
+
+@media (max-width:575px){
+    body,html{
+        font-size: 14px;
+    }
+    /* header */
+    .search-box input{
+        font-size: 12px;
+    }
+    .search-icon a {
+        top: 8px;
+        font-size: 11px;
+    }
+    .header-btn a {
+        font-size: 12px;
+    }
+    .header-icon a i {
+        margin-left: 7px;
+        font-size: 15px;
+    }
+    .menu ul {
+        padding: 12px 0;
+    }
+    .menu ul li a {
+        font-size: 13px;
+        margin-left: 15px;
+    }
+    /*banner*/
+    .banner-area {
+        padding: 45px 0 55px 0;
+    }
+    .banner-content h1 {
+        font-size: 32px;
+    }
+    .banner-content h2 {
+        font-size: 23px;
+        max-width: 180px;
+    }
+    .banner-content p {
+        max-width: 202px;
+    }
+    .banner-btn {
+        margin-top: 25px;
+    }
+
+    
+}
+
+@media (max-width:480px){
+    .section-title {
+        text-align: center;
+        margin: 45px 0 35px 0;
+        /* accent-color: ; */
+    }
+    .section-title h2 {
+        font-size: 28px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+    .section-title p {
+        font-size: 16px;
+    }
+    .main-btn a {
+        font-size: 12px;
+        padding: 10px 22px;
+    }
+    .main-btn i {
+        padding: 11px 20px;
+    }
+    /* header */
+    .logo {
+        max-width: 45px;
+    }
+    .header-icon {
+        margin-left: 0;
+    }
+    .menu ul {
+        padding: 10px 0;
+    }
+    .menu ul li a {
+        font-size: 11px;
+        margin-left: 13px;
+    }
+    /*banner*/
+    .banner-content h1 {
+        font-size: 33px;
+    }
+    .banner-content h2 {
+        font-size: 24px;
+        max-width: 193px;
+    }
+    /*discount*/
+    .discount-content h2 {
+        font-size: 20px;
+        margin: 6px 0 4px 0;
+    }
+    .discount-content h4 {
+        font-size: 15px;
+        letter-spacing: 2px;
+    }
+    .discount-content p {
+        max-width: 175px;
+    }
+    /*footer*/
+    .footer-content h2 {
+        font-size: 27px;
+    }
+    .footer-content p {
+        font-size: 17px;
+    }
+    .footer-bottom-text {
+        font-size: 23px;
+        margin-top: 15px;
+    }
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
